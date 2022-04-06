@@ -1,0 +1,17 @@
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\19127044_Lab02.exe.config
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\19127044_Lab02.exe
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\19127044_Lab02.pdb
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\SharpGL.dll
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\SharpGL.xml
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\SharpGL.SceneGraph.xml
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\SharpGL.WinForms.pdb
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\bin\Debug\SharpGL.WinForms.xml
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\19127044_Lab02.csprojAssemblyReference.cache
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\_19127044_Lab02.Properties.Resources.resources
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\19127044_Lab02.csproj.GenerateResource.cache
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\19127044_Lab02.csproj.CoreCompileInputs.cache
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\19127044_Lab02.csproj.CopyComplete
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\19127044_Lab02.exe
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\19127044_Lab02.pdb
+D:\Downloads\Computer Graphics\CG_Lab01\19127044_Lab01\19127044_Lab01\obj\Debug\_19127044_Lab02.Form1.resources
